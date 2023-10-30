@@ -2,7 +2,8 @@
 
 To be able to read quran in your smartphone:
 
-- Download quran.epub file from the project files or [releases page](https://github.com/rockneverdies55/quran-epub/releases)
+- Download the corresponding quran.epub file of your preferred language from the project files or [releases page](https://github.com/rockneverdies55/quran-epub/releases). 
+  *Only difference between quran_{language_code}.epub files (e.g. quran_en.epub, quran_tr.epub) are the translated surah names in the beginning of the chapters. Other than that the content is arabic script of the holy quran in all of them. The files containing _translated_ in the name has the translated verse followed by the arabic script.*
 
 - In android, have Google "Play Books" (if not installed by default) application installed or any other epub supporting reading app.
 
@@ -30,7 +31,19 @@ To add quran to your google play books library:
 For apple, I guess the quran.epub should be uploaded to iCloud and books feature needs to be enabled to see the Book in your iBooks library. Guidance from ios/apple users would be appreciated.
 
 ---
+<<<<<<< HEAD
+=======
 
-### TODO
-- Will add tranlation versions
-- More languages
+### Available Languages
+- Quran Arabic Script with English translation (English Quran)
+- Quran Arabic Script with Turkish translation (Kuran ve Turkce Meali)
+- Quran Arabic Script with Spanish translation (Spanish Quran)
+- Quran Arabic Script with German translation (German Quran)
+- Quran Arabic Script with Italian translation (Italian Quran)
+- Quran Arabic Script with Russian translation (Russian Quran)
+
+
+
+
+>>>>>>> 6a0952c (Update README.md)
+
