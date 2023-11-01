@@ -31,8 +31,6 @@ To add quran to your google play books library:
 For apple, I guess the quran.epub should be uploaded to iCloud and books feature needs to be enabled to see the Book in your iBooks library. Guidance from ios/apple users would be appreciated.
 
 ---
-<<<<<<< HEAD
-=======
 
 ### Available Languages
 - Quran Arabic Script with English translation (English Quran)
@@ -42,8 +40,4 @@ For apple, I guess the quran.epub should be uploaded to iCloud and books feature
 - Quran Arabic Script with Italian translation (Italian Quran)
 - Quran Arabic Script with Russian translation (Russian Quran)
 
-
-
-
->>>>>>> 6a0952c (Update README.md)
 
