@@ -28,9 +28,12 @@ To add quran to your kindle library:
 
 To add quran to your google play books library:
 - https://play.google.com/books/uploads
-- 
 
-For apple, I guess the quran.epub file should be uploaded to iCloud and books feature needs to be enabled to see the Book in your iBooks library. Guidance from ios/apple users would be appreciated.
+To add Quran to your Apple Books library:
+- download the .epub file and click on it, it should automatically open in Apple Books and be added to your library.
+
+To add Quran to your Kobo library:
+- https://help.kobo.com/hc/en-us/articles/360024775093-Add-non-protected-PDF-and-ePub-files-to-your-Kobo-eReader-using-your-computer
 
 ---
 
